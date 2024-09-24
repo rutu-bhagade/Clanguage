@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1> WELCOME TO CAR RENTAL APP <\h1>
+<p> for more details sigin <\p>
+<body>
+<\html>
